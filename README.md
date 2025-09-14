@@ -1,8 +1,10 @@
 # Analytics Dashboard Samples using Tableau
-Data Visualization using Tableau
+Performance Summary
 
 <img width="1194" height="793" alt="Performance" src="https://github.com/user-attachments/assets/95c280df-c7bc-4edf-9733-58553e387d29" />
+
 -------------------------------------------------------------
+Sales Report
 <img width="1805" height="1041" alt="Allstate_01" src="https://github.com/user-attachments/assets/efdb875b-5930-44fe-9f07-764e2c58e6aa" />
 
 <img width="1801" height="1046" alt="Allstate_02" src="https://github.com/user-attachments/assets/9d8f685d-0313-4d38-9f7a-ff39346187d6" />
