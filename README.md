@@ -1,8 +1,5 @@
 # Analytics Dashboard Samples
 -------------------------------------------------------------
-Sales Report
-
-[coffee_sales.pdf](https://github.com/user-attachments/files/22867067/coffee_sales.pdf)
 
 Performance Summary
 
