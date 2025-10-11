@@ -1,4 +1,9 @@
-# Analytics Dashboard Samples using Tableau
+# Analytics Dashboard Samples
+-------------------------------------------------------------
+Sales Report
+
+[coffee_sales.pdf](https://github.com/user-attachments/files/22867067/coffee_sales.pdf)
+
 Performance Summary
 
 <img width="1194" height="793" alt="Performance" src="https://github.com/user-attachments/assets/95c280df-c7bc-4edf-9733-58553e387d29" />
